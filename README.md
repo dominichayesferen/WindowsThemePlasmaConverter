@@ -32,7 +32,7 @@ For .theme files, this tool works best on themes installed on a Windows partitio
 
 ## TODO - Visual Style
 - [ ] Support Classic Theme schemes
-- [ ] Detect visual style and variats (e.g.: Luna, Metallic)
+- [ ] Detect visual style and variants (e.g.: Luna, Metallic)
 - [ ] Hardcode list of fallbacks for colour scheme generation, including Classic variants and visual styles+variants
 - [ ] For Windows Vista+ themes that use AERO, apply their window colour as the user's accent colour when applying
 - [ ] For Windows Vista+ themes that use AERO, figure out a way to potentially patch an Aero Glass Aurorae theme to use the appropriate window colour?
