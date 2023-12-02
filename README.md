@@ -66,6 +66,7 @@ For .theme files, this tool works best on themes installed on a Windows partitio
 - [ ] Instantly assume Windows XP with Luna as the msstyles when converting Samsung Theme
 
 ## TODO - Bonus ideas?
+- [ ] Windows 2000, ME, and 98 themes in "Special Themes"?
 - [ ] Provide an appropriate splash screen, if not lock screen too, based on the theme being converted?
 - [ ] ...Assuming authui.dll+imageres.dll or winlogon.exe or msgina.dll, depending on the version of Windows, can be found, that is
 - [ ] ...Remember that Samsung Theme has a custom login screen, too
